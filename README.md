@@ -4,7 +4,7 @@ Weekly Project Tech Web
 
 RAKOTONDRASOA Heritiana Cedric - IGGLIA 3
 
-<img src="assets/screnshot.png"
+<img src="assets/screenshot.png"
 style="float: left;
-margin-right: 15px;" />​
+margin-right: 15px;" />
 
